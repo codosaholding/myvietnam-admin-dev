@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/my-viet-nam-admin/precache-manifest.7bad189dfa385967567bab1aa25df291.js"
+  "/my-viet-nam-admin/precache-manifest.7249f8f6d77054f5e9c09223be5b5b98.js"
 );
 
 workbox.clientsClaim();
