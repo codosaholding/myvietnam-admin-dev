@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/my-viet-nam-admin/precache-manifest.1e7696a7355804e94449f355b0fbd176.js"
+  "/myvietnam-admin-dev/precache-manifest.a2c3aeda444526227f0ff5a2d670075a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/my-viet-nam-admin/index.html", {
+workbox.routing.registerNavigationRoute("/myvietnam-admin-dev/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
