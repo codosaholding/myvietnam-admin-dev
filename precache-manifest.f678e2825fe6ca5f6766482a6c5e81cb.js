@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/my-viet-nam-admin/static/js/runtime~main.bda705f2.js"
   },
   {
-    "revision": "9ee52e88dd46a34059be",
-    "url": "/my-viet-nam-admin/static/js/main.2a897f88.chunk.js"
+    "revision": "f1e211f2f3683c5f31f3",
+    "url": "/my-viet-nam-admin/static/js/main.0ed803b6.chunk.js"
   },
   {
     "revision": "176f96a2e0af771faa0c",
     "url": "/my-viet-nam-admin/static/js/2.4c8bfd89.chunk.js"
   },
   {
-    "revision": "9ee52e88dd46a34059be",
+    "revision": "f1e211f2f3683c5f31f3",
     "url": "/my-viet-nam-admin/static/css/main.36494774.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/my-viet-nam-admin/static/css/2.61921c13.chunk.css"
   },
   {
-    "revision": "badaa60a840cb80fac3ebb44db11452e",
+    "revision": "e35dfd97856e315d08025c54f5b06c76",
     "url": "/my-viet-nam-admin/index.html"
   }
 ];
